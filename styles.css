@@ -3,7 +3,7 @@
   --teal-900: #123832;
   --teal-700: #1F5148;
   --teal-500: #2F6459;
-  --sage-paper: #EEF1EC;
+  --sage-paper: #D4DBD4;
   --card: #FFFFFF;
   --gold: #B4863C;
   --line: #D8DED6;
@@ -22,7 +22,7 @@ body {
   line-height: 1.55;
 }
 h1, h2, h3, .serif { font-family: 'Newsreader', Georgia, serif; font-weight: 500; text-align: center;}
-img { max-width: 90%; display: block; }
+img { max-width: 80%; display: block; }
 a { color: inherit; }
 .wrap { max-width: 1120px; margin: 0 auto; padding: 0 28px; }
 
